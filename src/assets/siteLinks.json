@@ -19,6 +19,11 @@
     "name": "测速",
     "link": "https://speedtest.frp.plluto.cn:10109/"
   },
+   {
+    "icon": "Audible",
+    "name": "FRP",
+    "link": "http://www.frp.plluto.cn:10145/"
+  },
   {
     "icon": "CompactDisc",
     "name": "音乐",

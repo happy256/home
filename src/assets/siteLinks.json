@@ -20,9 +20,19 @@
     "link": "https://speedtest.frp.plluto.cn:10109/"
   },
    {
-    "icon": "Audible",
+    "icon": "NetworkWired",
     "name": "FRP",
     "link": "http://www.frp.plluto.cn:10145/"
+  },
+   {
+    "icon": "Npm",
+    "name": "Npm",
+    "link": "https://nginx.frp.plluto.cn:10109/"
+  },
+   {
+    "icon": "Ethernet",
+    "name": "iKuai",
+    "link": "https://ikuai.frp.plluto.cn:10109/"
   },
   {
     "icon": "CompactDisc",

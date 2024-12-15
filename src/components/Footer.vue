@@ -11,7 +11,7 @@
             -
           </span>
           {{ fullYear }}
-          <a :href="#">{{ siteAuthor }}</a>
+          <a :href=#>{{ siteAuthor }}</a>
         </span>
         <!-- 以下信息请不要修改哦 -->
         <span class="hidden">

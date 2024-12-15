@@ -11,7 +11,7 @@
             -
           </span>
           {{ fullYear }}
-          <a :href="https://www.frp.plluto.cn:10109/">{{ siteAuthor }}</a>
+          <a :href="#">{{ siteAuthor }}</a>
         </span>
         <!-- 以下信息请不要修改哦 -->
         <span class="hidden">

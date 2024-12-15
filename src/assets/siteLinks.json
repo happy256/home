@@ -7,12 +7,12 @@
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://truenas-new.plluto.cn:10109/"
+    "link": "https://truenas-new.frp.plluto.cn:10109/ui/"
   },
    {
     "icon": "Cloud",
     "name": "飞牛",
-    "link": "https://fnos.plluto.cn:10109/"
+    "link": "https://fnos.frp.plluto.cn:10109/"
   },
    {
     "icon": "Audible",

@@ -14,6 +14,11 @@
     "name": "飞牛",
     "link": "https://fnos.plluto.cn:10109/"
   },
+   {
+    "icon": "Audible",
+    "name": "测速",
+    "link": "https://speedtest.frp.plluto.cn:10109/"
+  },
   {
     "icon": "CompactDisc",
     "name": "音乐",

@@ -1,8 +1,8 @@
 [
   {
     "icon": "Brain",
-    "name": "AI",
-    "link": "https://myai.frp.plluto.cn:10109/"
+    "name": "HomeAssistant",
+    "link": "https://ha.frp.plluto.cn:10109/"
   },
   {
     "icon": "Cloud",

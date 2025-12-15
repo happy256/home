@@ -29,6 +29,11 @@
     "name": "Npm",
     "link": "https://nginx.plluto.cn:10109/"
   },
+  {
+    "icon": "Cloud",
+    "name": "网盘-v6",
+    "link": "https://fnos-new-V6.plluto.cn"
+  },
    {
     "icon": "NetworkWired",
     "name": "FRP",

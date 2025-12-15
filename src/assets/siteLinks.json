@@ -15,14 +15,14 @@
     "link": "https://fnos.plluto.cn:10109/"
   },
    {
+    "icon": "Ethernet",
+    "name": "iKuai",
+    "link": "https://ikuai.plluto.cn:10109/"
+  },  
+   {
     "icon": "Audible",
     "name": "测速",
     "link": "https://speedtest.plluto.cn:10109/"
-  },
-   {
-    "icon": "NetworkWired",
-    "name": "FRP",
-    "link": "http://www.frp.plluto.cn:10145/"
   },
    {
     "icon": "Npm",
@@ -30,9 +30,9 @@
     "link": "https://nginx.plluto.cn:10109/"
   },
    {
-    "icon": "Ethernet",
-    "name": "iKuai",
-    "link": "https://ikuai.plluto.cn:10109/"
+    "icon": "NetworkWired",
+    "name": "FRP",
+    "link": "http://www.frp.plluto.cn:10145/"
   },
   {
     "icon": "CompactDisc",

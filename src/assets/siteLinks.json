@@ -2,32 +2,32 @@
   {
     "icon": "Brain",
     "name": "HomeAssistant",
-    "link": "https://ha.plluto.cn:10109/"
+    "link": "https://ha.plluto.cn:444/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://fnos-new.plluto.cn:10109/ui/"
+    "link": "https://fnos-new.plluto.cn:444/ui/"
   },
    {
     "icon": "Cloud",
     "name": "飞牛",
-    "link": "https://fnos.plluto.cn:10109/"
+    "link": "https://fnos.plluto.cn:444/"
   },
    {
     "icon": "Ethernet",
     "name": "iKuai",
-    "link": "https://ikuai.plluto.cn:10109/"
+    "link": "https://ikuai.plluto.cn:444/"
   },  
    {
     "icon": "Audible",
     "name": "测速",
-    "link": "https://speedtest.plluto.cn:10109/"
+    "link": "https://speedtest.plluto.cn:444/"
   },
    {
     "icon": "Npm",
     "name": "Npm",
-    "link": "https://nginx.plluto.cn:10109/"
+    "link": "https://nginx.plluto.cn:444/"
   },
   {
     "icon": "Cloud",
